@@ -194,6 +194,10 @@ b{
     margin-right: 15%;
 }
 
+.video{
+    align-items: center;
+}
+
 .q{
     margin: 5px 0 5px 0;
     padding: 20px 20px 20px 20px;
