@@ -77,6 +77,14 @@ b{
     font-weight: bold;
 }
 
+#perm-desc{
+    font-size: 22px;
+}
+
+#email-desc{
+    font-weight: bold;
+}
+
 @font-face {
   font-family: "Akkurat Pro Light";
   src: url("https://common.northwestern.edu/v8/css/fonts/AkkuratProLight.woff") format("woff");
@@ -194,10 +202,6 @@ b{
     margin-right: 15%;
 }
 
-.video{
-    align-items: center;
-}
-
 .q{
     margin: 5px 0 5px 0;
     padding: 20px 20px 20px 20px;
@@ -207,6 +211,11 @@ b{
 
     transition: height 0.25s 0s;
 }
+
+.q h5{
+    color: black;
+}
+
 .q .ans{
     margin-left: 20px;
 }
